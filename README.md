@@ -12,5 +12,4 @@
 
 ### How to use
 
-> sudo chmod +x setup.sh
-> ./setup.sh
+> sudo chmod +x setup.sh && ./setup.sh
