@@ -54,6 +54,11 @@ switch_powerlevel_multiline_prompt(){
 	fi
 	zle && zle accept-line
 }
+
+plugins=(git)
+
+source $ZSH/oh-my-zsh.sh
+
 # ================================= End of powerlinelevel config ====================
 
 # export path
