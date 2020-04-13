@@ -30,6 +30,8 @@ else
   echo 'configure zsh...'
   cp .zshrc ~/.zshrc
   echo 'new config copied to ~/.zshrc, edit it as you want'
+  echo 'start clone and config PowerLevel9k!'
+  git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 fi
 
 

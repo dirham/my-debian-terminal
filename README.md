@@ -13,5 +13,5 @@
 ### How to use
 
 ```bash
-sudo chmod +x setup.sh && ./setup.sh
+sudo chmod +x setup.sh &&n sudo ./setup.sh
 ```
